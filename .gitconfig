@@ -1,0 +1,8 @@
+[user]
+	name = yinzhoux
+	email = zhou-jx23@mails.tsinghua.edu.cn
+
+[alias]
+	graph = log --all --graph --decorate --oneline
+[core]
+	excludesfile = /home/joe/.gitignore
